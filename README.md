@@ -1,4 +1,4 @@
-# genalgoproj
+# movies-genalgorithm
 Parameter tweaking practice in genetic algorithm.\
 Dataset used: MovieLens 100K
 
